@@ -21,7 +21,7 @@ description: Research interests and current projects
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "/_posts/projects"
+  Projects: "/_posts/Projects.Rmd"
   Resources:
     - Center for Watershed Sciences: "https://watershed.ucdavis.edu/"
   Author's home: "https://watershed.ucdavis.edu/people/denise-colombano"
