@@ -17,4 +17,4 @@ Feel free to get in touch with me!
 
 I earned a Bachelor's degree in Environmental Biology & Management from the University of California, Davis in 2010. After studying the community ecology of littoral fish assemblages in Dr. Andy Sih's laboratory for three years, I started conducting my own research in the Graduate Group in Ecology. I earned a Ph.D. in Dr. Peter Moyle's laboratory in 2019. Now I am a post-doctoral scholar where I am continuing my projects and looking for new opportunities.
 
-My interests are nearshore ecology, estuaries, tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, and most of all, synthesizing datasets to better understand the natural history of species that are adapted to dynamic estuarine environments.
+My interests are nearshore ecology, estuaries, tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, and most of all, synthesizing datasets to better understand the natural history of species and their behavioral adaptations to dynamic estuarine environments.
