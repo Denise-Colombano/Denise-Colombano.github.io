@@ -1,0 +1,13 @@
+---
+title: "Projects"
+author: "Denise Colombano"
+layout: post
+date: "October 16, 2019"
+output: html_document
+---
+
+1) Fish nurseries in tidal marshes of the San Francisco Estuary
+
+2) Residency, site fidelity, and movements of fishes in a brackish tidal marsh
+
+3) Feeding guilds across a natural tidal marsh elevation gradient
