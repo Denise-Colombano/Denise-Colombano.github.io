@@ -9,9 +9,8 @@ My name is Dr. Denise Colombano. I have the following qualities:
 - I am obsessed with estuaries
 - I am a fish ecologist
 - I'm into R, spatial analysis, hierarchical models, graphics, & scientific illustrations
-- I like to learn statistics but am by **no means** an expert
+- I like to learn and apply statistics but am by **no means** an expert. I do the best I can to interrogate all statistical models!
 
-Feel free to get in touch with me!
 
 ### my history
 
