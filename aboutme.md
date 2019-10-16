@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Nerd things Denise is into
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Dr. Denise Colombano. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am obsessed with estuaries
+- I am a fish ecologist
+- I'm into R, spatial analysis, hierarchical models, graphics, & scientific illustrations
+- I like to learn statistics but am by **no means** an expert
 
-What else do you need?
+Feel free to get in touch with me!
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I earned a Bachelor's degree in Environmental Biology & Management from the University of California, Davis in 2010. After studying the community ecology of littoral fish assemblages in Dr. Andy Sih's laboratory for three years, I started conducting my own research in the Graduate Group in Ecology. I earned a Ph.D. in Dr. Peter Moyle's laboratory in 2019. Now I am a post-doctoral scholar where I am continuing my projects and looking for new opportunities.
+
+My interests are nearshore ecology, estuaries, tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, and most of all, synthesizing datasets to better understand the natural history of species that are adapted to dynamic estuarine environments.
