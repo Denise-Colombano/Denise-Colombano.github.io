@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Nerd things Denise is into...
 ---
-page-img: "/img/dc.jpg"
+![DC](https://Denise-Colombano.github.io/img/dc.jpg){: .center-block :}
 
 My name is **Dr. Denise Colombano**. I have the following qualities:
 
