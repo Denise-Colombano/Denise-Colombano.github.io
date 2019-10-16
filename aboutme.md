@@ -4,7 +4,7 @@ title: About me
 subtitle: Nerd things Denise is into...
 ---
 
-My name is Dr. Denise Colombano. I have the following qualities:
+My name is **Dr. Denise Colombano**. I have the following qualities:
 
 - I am obsessed with **estuaries**
 - I am a **fish ecologist**
