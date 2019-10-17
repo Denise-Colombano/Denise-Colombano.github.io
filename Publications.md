@@ -2,9 +2,8 @@
 layout: post
 title: Publications
 date: 2019-10-17
+subtitle: List of publications
 ---
-
-**List of publications**
 
 Weinersmith, K. L., **Colombano, D. D.**, Bibian, A. J., Young, M. J., Sih, A., & Conrad, J. L. (2019). Diets of Largemouth Bass (Micropterus salmoides) in the Sacramento San Joaquin Delta. *San Francisco Estuary and Watershed Science*, 17(1). [Link](https://escholarship.org/uc/item/9mn0v9qb)
 
