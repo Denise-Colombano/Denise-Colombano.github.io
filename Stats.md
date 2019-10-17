@@ -21,7 +21,7 @@ Statistical rethinking resources
         c) [Model selection and cross-validation](https://avehtari.github.io/modelselection/rats_kcv.html)
 
 2) mgcv: Mixed GAM Computation Vehicle with Automatic Smoothness Estimation [mgcv website](https://noamross.github.io/mgcv-esa-workshop/)
-- [Hierarchical generalized additive models in ecology: an introduction with mgcv](https://peerj.com/articles/6876/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD#supplemental-information)
+- Paper with examples and code: [Hierarchical generalized additive models in ecology: an introduction with mgcv](https://peerj.com/articles/6876/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD#supplemental-information)
 
 3) mgcViz: An R package for interactive visualization of GAM models [mgcViz website](https://github.com/mfasiolo/mgcViz)
 
