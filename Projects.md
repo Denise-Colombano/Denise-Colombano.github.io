@@ -12,7 +12,7 @@ Dissertation chapters:
 
 Blogs:
 
-- [Seascape ecology brings a unified perspective to the SFE](https://caseagrant.ucsd.edu/blogs/seascape-ecology-brings-a-unified-perspective-to-the-san-francisco-estuary)
+- [Seascape ecology brings a unified perspective to the San Francisco Estuary](https://caseagrant.ucsd.edu/blogs/seascape-ecology-brings-a-unified-perspective-to-the-san-francisco-estuary)
 
 
 
