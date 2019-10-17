@@ -16,9 +16,9 @@ Statistical rethinking resources
 
 1) brms: Bayesian generalized multivariate non-linear multilevel models using Stan [brms website](https://github.com/paul-buerkner/brms)
 
-- Blogs: [a) List of brms blogs](https://paul-buerkner.github.io/blog/brms-blogposts/),
-        [b) Fitting GAMs with brms](https://www.fromthebottomoftheheap.net/2018/04/21/fitting-gams-with-brms/),
-        [c) Model selection and cross-validation](https://avehtari.github.io/modelselection/rats_kcv.html)
+- Blogs: a) [List of brms blogs](https://paul-buerkner.github.io/blog/brms-blogposts/),
+        b) [Fitting GAMs with brms](https://www.fromthebottomoftheheap.net/2018/04/21/fitting-gams-with-brms/),
+        c) [Model selection and cross-validation](https://avehtari.github.io/modelselection/rats_kcv.html)
 
 2) mgcv: Mixed GAM Computation Vehicle with Automatic Smoothness Estimation [mgcv website](https://noamross.github.io/mgcv-esa-workshop/)
 - [Hierarchical generalized additive models in ecology: an introduction with mgcv](https://peerj.com/articles/6876/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD#supplemental-information)
