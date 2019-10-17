@@ -11,11 +11,12 @@ McElreath, R. (2018). Statistical rethinking: A Bayesian course with examples in
 - [rethinking website](https://xcelab.net/rm/statistical-rethinking/)
 - [rethinking recoded for use in brms](https://bookdown.org/connect/#/apps/1850/access)
 
-**Learn R:**
+**Learn R and project workflow practices:**
 
 - [{swirl} stats: learn R, in R.](https://swirlstats.com/)
 - [Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows#readme)
 - [What they forgot to teach you about R](https://whattheyforgot.org/)
+- [Happy Git and GitHub for the UserR](https://happygitwithr.com/) 
 - [Fundamentals of data visualization](https://serialmentor.com/dataviz/)
 
 **R Packages and tutorials:**
@@ -47,8 +48,5 @@ McElreath, R. (2018). Statistical rethinking: A Bayesian course with examples in
 
 - [brms forum](https://discourse.mc-stan.org/c/interfaces/brms)
 - [mgcv forum](https://stats.stackexchange.com/questions/tagged/mgcv)
-
-**Git resources:**
-- [Happy Git and GitHub for the UserR](https://happygitwithr.com/) 
 
 
