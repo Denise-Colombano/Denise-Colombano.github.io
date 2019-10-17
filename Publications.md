@@ -14,6 +14,11 @@ Young, M. J., Feyrer, F. V., **Colombano, D. D.**, Conrad, J. L., & Sih, A. (201
 Conrad, J. L., Bibian, A. J., Weinersmith, K. L., **De Carion, D.**, Young, M. J., Crain, P., ... & Sih, A. (2016). Novel species interactions in a highly modified estuary: association of Largemouth Bass with Brazilian waterweed Egeria densa. *Transactions of the American Fisheries Society*, 145(2), 249-263. [Link](https://www.tandfonline.com/doi/full/10.1080/00028487.2015.1114521)
 
 
+**Reports:**
+
+Williamson, B. O., O'Rear, T., **De Carion, D.**, Durand, J. R., & Moyle, P. B. (2016). Fishes of the Nurse-Denverton Complex: managed wetlands and tidal waterways in Suisun Marsh. Interagency Ecological Program Newsletter. [Link](http://www.water.ca.gov/iep/docs/IEP%20Vol28_3.pdf)
+
+
 **Blogs for CA Sea Grant:**
 
 - [Seascape ecology brings a unified perspective to the San Francisco Estuary](https://caseagrant.ucsd.edu/blogs/seascape-ecology-brings-a-unified-perspective-to-the-san-francisco-estuary)
