@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stats
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: 2019-10-17
 subtitle: Denise's recommended resources
 ---
 
