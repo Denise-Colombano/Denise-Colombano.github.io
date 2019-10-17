@@ -8,9 +8,9 @@ subtitle: Denise's recommended resources
 
 Statistical rethinking resources
 
-- Textbook: McElreath, R. (2018). Statistical rethinking: A Bayesian course with examples in R and Stan. Chapman and Hall/CRC. 
+- McElreath, R. (2018). Statistical rethinking: A Bayesian course with examples in R and Stan. Chapman and Hall/CRC. 
 - [Rethinking website](https://xcelab.net/rm/statistical-rethinking/)
-- [Recoded in "brms" bookdown](https://bookdown.org/connect/#/apps/1850/access)
+- [Rethinking recoded for use in brms](https://bookdown.org/connect/#/apps/1850/access)
 
 **R Packages and tutorials:**
 
