@@ -14,7 +14,7 @@ My name is **Dr. Denise Colombano**.
 - I like to learn and apply **statistics** but am by no means an expert. I do my best to interrogate all statistical models!
 
 
-### Education and Research Interests
+### Education and research interests
 
 I earned a Ph.D. in Ecology under the guidance of Dr. Peter Moyle at UC Davis in 2019. My dissertation is titled, "Tidal marsh habitat use by fishes in the San Francisco Estuary" and is available by request. Currently, I am a post-doctoral scholar at the Center for Watershed Sciences at UC Davis, where I'm continuing my projects while looking for funding and collaborations.
 
