@@ -38,7 +38,7 @@ McElreath, R. (2018). Statistical rethinking: A Bayesian course with examples in
 
 **Cloud computing resources:**
 
-- [Louis Aslett RStudio Server using Amazon EC2](http://www.louisaslett.com/RStudio_AMI/)
+- [RStudio server using Amazon EC2](http://www.louisaslett.com/RStudio_AMI/)
 
 **Forums:**
 
