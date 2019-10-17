@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stats
-date: `r format(Sys.time(), "%d %B, %Y")`
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 subtitle: Denise's recommended resources
 ---
 
