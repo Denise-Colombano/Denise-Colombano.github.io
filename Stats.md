@@ -11,6 +11,9 @@ McElreath, R. (2018). Statistical rethinking: A Bayesian course with examples in
 - [rethinking website](https://xcelab.net/rm/statistical-rethinking/)
 - [rethinking recoded for use in brms](https://bookdown.org/connect/#/apps/1850/access)
 
+**Learn R:**
+[{swirl stats: learn R, in R.}](https://swirlstats.com/)
+
 **R Packages and tutorials:**
 
 1) brms: Bayesian generalized multivariate non-linear multilevel models using Stan 
