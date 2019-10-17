@@ -41,4 +41,7 @@ McElreath, R. (2018). Statistical rethinking: A Bayesian course with examples in
 - [brms forum](https://discourse.mc-stan.org/c/interfaces/brms)
 - [mgcv forum](https://stats.stackexchange.com/questions/tagged/mgcv)
 
+**Git resources:**
+- [Happy Git and GitHub for the UserR](https://happygitwithr.com/) 
+
 
