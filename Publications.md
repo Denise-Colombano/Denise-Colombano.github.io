@@ -1,3 +1,9 @@
+---
+layout: post
+title: Publications
+date: 2019-10-17
+--
+
 **List of publications**
 
 Young, M. J., Feyrer, F. V., **Colombano, D. D.**, Conrad, J. L., & Sih, A. (2018). Fish-Habitat Relationships Along the Estuarine Gradient of the Sacramento-San Joaquin Delta, California: Implications for Habitat Restoration. Estuaries and coasts, 41(8), 2389-2409. [URL:](https://link.springer.com/article/10.1007/s12237-018-0417-4)
