@@ -4,6 +4,8 @@ title: About me
 subtitle: Nerd things Denise is into...
 ---
 
+### Synopsis
+
 My name is **Dr. Denise Colombano**. 
 
 - I am a **fish ecologist**
