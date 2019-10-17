@@ -32,4 +32,13 @@ McElreath, R. (2018). Statistical rethinking: A Bayesian course with examples in
 5) tidybayes: Bayesian analysis + tidy data + geoms 
 - [tidybayes website](https://github.com/mjskay/tidybayes)
 
+**Cloud computing resources:**
+
+- [Louis Aslett RStudio Server using Amazon EC2](http://www.louisaslett.com/RStudio_AMI/)
+
+**Forums:**
+
+- [brms forum](https://discourse.mc-stan.org/c/interfaces/brms)
+- [mgcv forum](https://stats.stackexchange.com/questions/tagged/mgcv)
+
 
