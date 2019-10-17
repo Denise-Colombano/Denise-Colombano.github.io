@@ -12,7 +12,8 @@ McElreath, R. (2018). Statistical rethinking: A Bayesian course with examples in
 - [rethinking recoded for use in brms](https://bookdown.org/connect/#/apps/1850/access)
 
 **Learn R:**
-[{swirl stats: learn R, in R.}](https://swirlstats.com/)
+
+[{swirl} stats: learn R, in R.](https://swirlstats.com/)
 
 **R Packages and tutorials:**
 
