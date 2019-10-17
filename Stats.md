@@ -14,6 +14,9 @@ McElreath, R. (2018). Statistical rethinking: A Bayesian course with examples in
 **Learn R:**
 
 - [{swirl} stats: learn R, in R.](https://swirlstats.com/)
+- [Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows#readme)
+- [What they forgot to teach you about R](https://whattheyforgot.org/)
+- [Fundamentals of data visualization](https://serialmentor.com/dataviz/)
 
 **R Packages and tutorials:**
 
