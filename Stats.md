@@ -14,29 +14,28 @@ Statistical rethinking resources
 
 **R Packages and tutorials:**
 
-2) brms: Bayesian generalized multivariate non-linear multilevel models using Stan
+1) brms: Bayesian generalized multivariate non-linear multilevel models using Stan
 
 - [brms website](https://github.com/paul-buerkner/brms)
 
-- Blogs: 
--        [List of brms blogs](https://paul-buerkner.github.io/blog/brms-blogposts/)
--        [Fitting GAMs with brms](https://www.fromthebottomoftheheap.net/2018/04/21/fitting-gams-with-brms/)
--        [Model selection and cross-validation](https://avehtari.github.io/modelselection/rats_kcv.html)
+- Blogs: [List of brms blogs](https://paul-buerkner.github.io/blog/brms-blogposts/)
+        [Fitting GAMs with brms](https://www.fromthebottomoftheheap.net/2018/04/21/fitting-gams-with-brms/)
+        [Model selection and cross-validation](https://avehtari.github.io/modelselection/rats_kcv.html)
 
-3) mgcv: Mixed GAM Computation Vehicle with Automatic Smoothness Estimation
+2) mgcv: Mixed GAM Computation Vehicle with Automatic Smoothness Estimation
 
 - [mgcv website](https://noamross.github.io/mgcv-esa-workshop/)
 - [Hierarchical generalized additive models in ecology: an introduction with mgcv](https://peerj.com/articles/6876/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD#supplemental-information)
 
-4) mgcViz: An R package for interactive visualization of GAM models
+3) mgcViz: An R package for interactive visualization of GAM models
 
 - [mgcViz website](https://github.com/mfasiolo/mgcViz)
 
-5) gratia: ggplot-based graphics and useful functions for GAMs fitted using the mgcv package
+4) gratia: ggplot-based graphics and useful functions for GAMs fitted using the mgcv package
 
 - [gratia website](https://github.com/gavinsimpson/gratia)
 
-6) tidybayes: Bayesian analysis + tidy data + geoms
+5) tidybayes: Bayesian analysis + tidy data + geoms
 
 - [tidybayes website](https://github.com/mjskay/tidybayes)
 
