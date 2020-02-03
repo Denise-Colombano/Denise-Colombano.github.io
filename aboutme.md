@@ -16,9 +16,9 @@ My name is **Dr. Denise Colombano**.
 
 ### Education and research interests
 
-I earned a Ph.D. in Ecology under the guidance of Dr. Peter Moyle at UC Davis in 2019. My dissertation is titled, "Tidal marsh habitat use by fishes in the San Francisco Estuary" and is available by request. Currently, I am a post-doctoral scholar at the Center for Watershed Sciences at UC Davis, where I'm continuing my projects while looking for funding and collaborations.
+I earned a Ph.D. in Ecology in Dr. Peter Moyle's lab at UC Davis. My dissertation is titled, "Tidal marsh habitat use by fishes in the San Francisco Estuary" and is available by request. Currently, I am a postdoctoral scholar in the Otolith Geochemistry and Fish Ecology Lab (ogfishlab.com) in the Wildlife, Fish, and Conservation Biology Department at UC Davis, where I'm working on (1) longfin smelt ecology in San Francisco Bay tributaries, and (2) developing a conceptual model, "Mount to Marsh" (M2M), to describe the role of marsh-upland gradients in supporting estuarine and migratory fishes.
 
-My interests are nearshore ecology (particularly in estuaries), tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, habitat connectivity, terrestrial-aquatic linkages. Most of all, I'm interested in synthesizing datasets in new ways to better understand the natural history of species and their behavioral adaptations to dynamic marine/ estuarine environments.
+My interests are nearshore ecology (particularly in estuaries), tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, habitat connectivity, and terrestrial-aquatic linkages. Most of all, I'm interested in synthesizing datasets in new ways to better understand the natural history of species and their behavioral adaptations to dynamic marine/ estuarine environments.
 
 I like to code in R, teach R, learn new techniques and statistical analyses, and share my knowledge with students and staff at UC Davis. I believe that the collective scientific enterprise requires inclusive and supportive work environments that foster creativity and productivity.
 
