@@ -4,10 +4,9 @@ title: Projects
 subtitle: Current research projects and materials
 ---
 
-Dissertation chapters:
+Dissertation chapters in preparation for publication:
 
-- Habitat complexity and land-water interactions support fish nurseries in a California estuary
-- Residency, site fidelity, and movements of fishes in a brackish tidal marsh
+- Fine-scale movements patterns of three estuarine fishes in a tidal marsh channel
 - Feeding guilds across a natural tidal marsh elevation gradient
 
 
