@@ -7,6 +7,8 @@ subtitle: Denise's work, features, and collaborations
 
 **Peer-reviewed publications:**
 
+**Colombano, D. D.**, Donovan, J. M., Ayers, D. E., O'Rear, T. A., & Moyle, P. B. (2020). Tidal effects on marsh habitat use by three fishes in the San Francisco Estuary. *Environmental Biology of Fishes* [Link](https://doi.org/10.1007/s10641-020-00973-w)
+
 **Colombano, D. D.**, Manfree, A. D., O'Rear, T. A., Durand, J. R., & Moyle, P. B. (2020). Estuarine-terrestrial habitat gradients enhance nursery function for resident and transient fishes in the San Francisco Estuary. *Marine Ecology Progress Series*, 637, 141-157. [Link](https://www.int-res.com/abstracts/meps/v637/p141-157/)
 
 Weinersmith, K. L., **Colombano, D. D.**, Bibian, A. J., Young, M. J., Sih, A., & Conrad, J. L. (2019). Diets of Largemouth Bass (Micropterus salmoides) in the Sacramento San Joaquin Delta. *San Francisco Estuary and Watershed Science*, 17(1). [Link](https://escholarship.org/uc/item/9mn0v9qb)
