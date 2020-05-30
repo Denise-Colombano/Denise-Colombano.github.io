@@ -24,6 +24,6 @@ I earned a Ph.D. in Ecology in Dr. Peter Moyle's lab at UC Davis. My dissertatio
 
 My interests are nearshore ecology (particularly in estuaries), tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, habitat connectivity, and terrestrial-aquatic linkages. Most of all, I'm interested in synthesizing datasets in new ways to better understand the natural history of species and their behavioral adaptations to dynamic marine/ estuarine environments.
 
-I like to code in R, teach R, learn new techniques and statistical analyses, and share my knowledge with students and staff at UC Davis. I believe that the collective scientific enterprise requires inclusive and supportive work environments that foster creativity and productivity.
+I like to code in R, teach R, learn new techniques and statistical analyses, and share my knowledge with students and staff. I believe that the collective scientific enterprise requires inclusive and supportive work environments that foster creativity and productivity.
 
 Please get in touch!
