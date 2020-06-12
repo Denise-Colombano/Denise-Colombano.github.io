@@ -24,7 +24,7 @@ navbar-links:
   Projects: "Projects"
   Publications: "Publications"
   Stats resources: "Stats"
-  Work homepage: "https://watershed.ucdavis.edu/people/denise-colombano"
+  Work homepage: "https://nature.berkeley.edu/ruhilab/lab-members/denise-colombano/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -68,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: "dpdecarion@ucdavis.edu"
+  email: "denise.colombano@berkeley.edu"
   github: Denise-Colombano
   twitter: starryflo
 #  reddit: yourname
