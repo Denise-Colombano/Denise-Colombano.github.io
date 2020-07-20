@@ -22,7 +22,7 @@ I earned a Ph.D. in Ecology in Dr. Peter Moyle's lab at UC Davis. My dissertatio
 - **Longfin smelt ecology** in San Francisco Bay tributaries
 - Developing a conceptual model, **Mount to Marsh** (M2M), describing how habitat mosaics/ connectivity (e.g., marsh-upland gradients) influence habitat suitability for estuarine and migratory fishes across San Francisco Estuary watersheds.
 
-My interests are nearshore ecology (particularly in estuaries), tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, habitat connectivity, terrestrial-aquatic linkages, and climate change effects on flows. Most of all, I'm interested in synthesizing datasets in new ways to better understand the natural history of species and their behavioral adaptations to dynamic marine/ estuarine environments. You can follow my research on ([Research Gate])(https://www.researchgate.net/profile/Denise_Colombano).
+My interests are nearshore ecology (particularly in estuaries), tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, habitat connectivity, terrestrial-aquatic linkages, and climate change effects on flows. Most of all, I'm interested in synthesizing datasets in new ways to better understand the natural history of species and their behavioral adaptations to dynamic marine/ estuarine environments. You can follow my research on ([Research Gate](https://www.researchgate.net/profile/Denise_Colombano)).
 
 I like to code in R, teach R, learn new techniques and statistical analyses, and share my knowledge with students and staff. I believe that the collective scientific enterprise requires inclusive and supportive work environments that foster creativity and productivity.
 
