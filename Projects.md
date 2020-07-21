@@ -6,7 +6,10 @@ subtitle: Current research projects and materials
 
 Dissertation chapters in preparation for publication:
 
-- Feeding guilds across a natural tidal marsh elevation gradient
+- Habitat and prey use by fish feeding guilds along a tidal marsh elevation gradient
+
+
+
 
 
 
