@@ -24,6 +24,6 @@ I earned a Ph.D. in Ecology in Dr. Peter Moyle's lab at UC Davis. My dissertatio
 
 My interests are nearshore ecology (particularly in estuaries), tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, habitat connectivity, terrestrial-aquatic linkages, and climate change effects on flows. Most of all, I'm interested in synthesizing datasets in new ways to better understand the natural history of species and their behavioral adaptations to dynamic marine/ estuarine environments. You can follow my current research on [Research Gate](https://www.researchgate.net/profile/Denise_Colombano).
 
-I like to code in R, teach R, learn new techniques and statistical analyses, and share my knowledge with students and staff. I believe that the collective scientific enterprise requires inclusive and supportive work environments that foster creativity and productivity.
+I like to code in R, teach R, learn new techniques and statistical analyses, and share my knowledge with students and staff. I believe that the collective scientific enterprise requires equitable, inclusive, and supportive work environments that foster creativity and productivity in individuals and teams.
 
 Please get in touch!
