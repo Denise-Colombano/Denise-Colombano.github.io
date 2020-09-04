@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publications
-date: 2019-10-17
+date: 2020-09-03
 subtitle: Denise's work, features, and collaborations
 ---
 
