@@ -18,10 +18,10 @@ My name is **Dr. Denise Colombano**.
 
 I earned a Ph.D. in Ecology in Dr. Peter Moyle's lab at UC Davis. My dissertation is titled, "Tidal marsh habitat use by fishes in the San Francisco Estuary" and is available by request. Currently, I am a postdoctoral scholar working under Professors Albert Ruhi and Stephanie Carlson ([See Ruhi Lab website](https://nature.berkeley.edu/ruhilab/lab-members/denise-colombano/)) in the Department of Environmental Science, Policy, and Management ([ESPM](https://ourenvironment.berkeley.edu/)) at UC Berkeley. I'm working on:
 
-- Climate change effects on tidal marsh food webs across the globe
-- Climate change effects on fish community stability in the San Francisco Estuary
+- Climate change implications for tidal marsh food webs and linkages to estuarine and coastal nekton
+- Climate change effects on long-term fish community stability
 - Longfin smelt ecology in San Francisco Bay tributaries
-- Developing a conceptual model, Mount to Marsh (M2M), describing how habitat mosaics/ connectivity (e.g., marsh-upland gradients) influence habitat suitability for estuarine and migratory fishes across San Francisco Estuary watersheds.
+- Developing a conceptual model, Mount to Marsh (M2M), describing how habitat mosaics and connectivity (e.g. marsh-upland gradients) influence habitat suitability for estuarine and migratory fishes across SFE watersheds
 
 My interests are nearshore ecology (particularly in estuaries), tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, habitat connectivity, terrestrial-aquatic linkages, and climate change effects on flows. Most of all, I'm interested in synthesizing datasets in new ways to better understand the natural history of species and their behavioral adaptations to dynamic marine/ estuarine environments. You can follow my current research on [Research Gate](https://www.researchgate.net/profile/Denise_Colombano).
 
