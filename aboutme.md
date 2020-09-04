@@ -10,7 +10,7 @@ My name is **Dr. Denise Colombano**.
 
 - I am a **fish ecologist**
 - I am obsessed with **estuaries**
-- I'm also into **R**, spatial analysis, hierarchical models, dataviz, and scientific illustrations
+- I'm also into **R**, time-series models, spatially explicit models, hierarchical linear and non-linear models, dataviz, and scientific illustrations
 - I like to learn and apply **statistics** but am by no means an expert. I do my best to interrogate all statistical models!
 
 
