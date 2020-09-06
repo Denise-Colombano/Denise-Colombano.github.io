@@ -10,7 +10,7 @@ subtitle: Current research projects and materials
 **Funding agencies**: Delta Science Program, California Sea Grant
 
 **Principal investigators:** 
-- Denise Colombano, Albert Ruhi, Stephanie Carlson (University of California, Berkeley)
+- Denise Colombano, Albert Ruhi, Stephanie Carlson (UC Berkeley)
 - James Hobbs (California Department of Fish and Wildlife)
 
 **Project description**: 
