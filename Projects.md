@@ -4,7 +4,10 @@ title: Projects
 subtitle: Current research projects and materials
 ---
 
-Delta Science Fellowship postdoctoral reserch project
+**Delta Science Fellowship postdoctoral research project**
+
+
+**Funding agencies**: Delta Science Program, California Sea Grant
 
 **Principal investigators:** Denise Colombano, Albert Ruhi, Stephanie Carlson (University of California Berkeley); James Hobbs (California Department of Fish and Wildlife)
 
