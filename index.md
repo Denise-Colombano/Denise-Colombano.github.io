@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Denise Colombano, PhD
+subtitle: Postdoctoral researcher, UC Berkeley
 ---
 
 ### Synopsis
