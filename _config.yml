@@ -20,10 +20,10 @@ description: Research interests and current projects
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
+  Posts: "_posts"
   Projects: "Projects"
   Publications: "Publications"
-  Posts: "_posts"
   Work homepage: "https://nature.berkeley.edu/ruhilab/lab-members/denise-colombano/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
