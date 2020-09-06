@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Statistics resources
-date: 2019-10-17
-subtitle: Some of Denise's favorites
 ---
 
 **Textbooks:**
