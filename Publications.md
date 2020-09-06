@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Denise's publications and presentations
+subtitle: A collection of Denise's work
 ---
 
 **Peer-reviewed publications:**
