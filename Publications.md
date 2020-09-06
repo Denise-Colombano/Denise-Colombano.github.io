@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: Publications
-date: 2020-09-03
 subtitle: Denise's work, features, and collaborations
 ---
 
