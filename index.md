@@ -6,7 +6,7 @@ subtitle: Postdoctoral researcher, UC Berkeley
 
 ### Synopsis
 
-My name is **Dr. Denise Colombano**. 
+My name is **Denise Colombano**. 
 
 - I am a **fish ecologist**
 - I am obsessed with **estuaries**
