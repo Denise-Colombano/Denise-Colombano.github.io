@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Stats
+title: Statistics resources
 date: 2019-10-17
-subtitle: Denise's recommended resources
+subtitle: Some of Denise's favorites
 ---
 
 **Textbooks:**
