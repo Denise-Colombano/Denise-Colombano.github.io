@@ -4,14 +4,14 @@
 title: Denise's website
 
 # Short description of your site
-description: Research interests and current projects
+description: Academic website and blog
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://denise-colombano.github.io/"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -38,7 +38,7 @@ avatar: "/img/dc_headshot_sq.JPG"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#3CB371" #F5F5F5
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
