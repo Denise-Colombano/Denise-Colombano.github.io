@@ -21,7 +21,7 @@ url: "https://denise-colombano.github.io/"
 # List of links in the navigation bar
 navbar-links:
   #About Me: "aboutme"
-  Posts: "Blog"
+  Posts: "Posts"
   Projects: "Projects"
   Publications: "Publications"
   Work homepage: "https://nature.berkeley.edu/ruhilab/lab-members/denise-colombano/"
