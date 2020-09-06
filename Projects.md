@@ -7,7 +7,7 @@ subtitle: Current research projects and materials
 **Delta Science Fellowship postdoctoral research project**
 
 
-**Funding agencies**: Delta Science Program, California Sea Grant
+**Funding agencies**: The Delta Science Program, California Sea Grant
 
 **Principal investigators:** 
 - Denise Colombano, Albert Ruhi, Stephanie Carlson (UC Berkeley)
