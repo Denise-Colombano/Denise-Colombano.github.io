@@ -8,7 +8,7 @@ subtitle: A collection of Denise's work
 
 **Colombano, D. D.**, Handley, T. B., O'Rear, T. A., Durand, J. R., & Moyle, P. B. *In review.* Habitat and prey use by fish feeding guilds along a tidal marsh elevation gradient.  
 
-Gilby, B. L., Weinstein, M. P., Baker, R., Cebrian, J., Alford, S. B., Chelsky, A., **Colombano, D. D.** [...] & Ziegler, S. L. (2020). Human actions alter tidal marsh seascapes and the provision of ecosystem services. *Estuaries and Coasts* [Link](https://rdcu.be/b63Aq) 
+Gilby, B. L., Weinstein, M. P., Baker, R., Cebrian, J., Alford, S. B., Chelsky, A., **Colombano, D. D.**, ... & Ziegler, S. L. (2020). Human actions alter tidal marsh seascapes and the provision of ecosystem services. *Estuaries and Coasts* [Link](https://rdcu.be/b63Aq) 
 
 **Colombano, D. D.**, Donovan, J. M., Ayers, D. E., O'Rear, T. A., & Moyle, P. B. (2020). Tidal effects on marsh habitat use by three fishes in the San Francisco Estuary. *Environmental Biology of Fishes* [Link](https://doi.org/10.1007/s10641-020-00973-w)
 
