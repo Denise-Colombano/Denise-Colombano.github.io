@@ -8,7 +8,7 @@ subtitle: A collection of Denise's work
 
 **Colombano, D. D.**, Handley, T. B., O'Rear, T. A., Durand, J. R., & Moyle, P. B. *In review.* Habitat and prey use by fish feeding guilds along a tidal marsh elevation gradient.
 
-**Colombano, D. D.** et al. *In review.* Climate change implications for tidal marshes and food web linkages to estuarine and coastal nekton.
+**Colombano, D. D.**, Litvin, S. Y., Alford, S. B., Baker, R., Barbeau, M. A., Cebrian, J., Connolly, R. M., ... & Ziegler, S. L. *In review.* Climate change implications for tidal marshes and food web linkages to estuarine and coastal nekton.
 
 Baker, R., Taylor, M. D., Able, K. W., Beck, M. W., Cebrian, J., **Colombano, D. D.**, ... & Staver, L. W. *In review.* The uncertain future of saltmarsh support of fisheries.
 
