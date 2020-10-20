@@ -12,7 +12,7 @@ subtitle: A collection of Denise's work
 
 Ziegler, S. L., Baker, R., Crosby, S. C., Barbeau, M. A., Cebrian, J., **Colombano, D. D.**, ... & Rozas, L. P. *In review*. Geographic variation in salt marsh structure and function for nekton: a guide to finding commonality across multiple scales.
 
-Baker, R., Taylor, M. D., Able, K. W., Beck, M. W., Cebrian, J., **Colombano, D. D.**, ... & Staver, L. W. *In review.* The uncertain future of saltmarsh support of fisheries.
+Baker, R., Taylor, M. D., Able, K. W., Beck, M. W., Cebrian, J., **Colombano, D. D.**, ... & Staver, L. W. *In review.* Fisheries rely on threatened salt marshes.
 
 Gilby, B. L., Weinstein, M. P., Baker, R., Cebrian, J., Alford, S. B., Chelsky, A., **Colombano, D. D.**, ... & Ziegler, S. L. (2020). Human actions alter tidal marsh seascapes and the provision of ecosystem services. *Estuaries and Coasts* [Link](https://rdcu.be/b63Aq) 
 
