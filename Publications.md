@@ -4,13 +4,18 @@ title: Publications
 subtitle: A collection of Denise's work
 ---
 
-**Peer-reviewed publications:**
+**In review:**
 
 **Colombano, D. D.**, Handley, T. B., O'Rear, T. A., Durand, J. R., & Moyle, P. B. *In review.* Habitat and prey use by fish feeding guilds along a tidal marsh elevation gradient.
 
 **Colombano, D. D.**, Litvin, S. Y., Alford, S. B., Baker, R., Barbeau, M. A., Cebrian, J., Connolly, R. M., ... & Ziegler, S. L. *In review.* Climate change implications for tidal marshes and food web linkages to estuarine and coastal nekton.
 
+Kimball, M. E., Connolly, R. M, Alford, S. B., **Colombano, D. D.**, James, W. R., Kenworthy, M. D., Norris, G. S., ... & Taylor, M. D. *In review*. Novel applications of technology for advancing tidal marsh ecology.
+
 Ziegler, S. L., Baker, R., Crosby, S. C., Barbeau, M. A., Cebrian, J., **Colombano, D. D.**, ... & Rozas, L. P. *In review*. Geographic variation in salt marsh structure and function for nekton: a guide to finding commonality across multiple scales.
+
+
+**Peer-reviewed publications:**
 
 Baker, R., Taylor, M. D., Able, K. W., Beck, M. W., Cebrian, J., **Colombano, D. D.**, ... & Staver, L. W. (2020). Fisheries rely on threatened salt marshes. *Science* [Link](https://science.sciencemag.org/content/370/6517/670.1)
 
