@@ -15,7 +15,7 @@ Ziegler, S. L., Baker, R., Crosby, S. C., Barbeau, M. A., Cebrian, J., **Colomba
 
 **Peer-reviewed publications:**
 
-**Colombano, D. D.**, Handley, T. B., O'Rear, T. A., Durand, J. R., & Moyle, P. B. *Accepted.* Complex tidal marsh dynamics structure fish foraging patterns in the San Francisco Estuary. *Estuaries and Coasts*
+**Colombano, D. D.**, Handley, T. B., O'Rear, T. A., Durand, J. R., & Moyle, P. B. *In press.* Complex tidal marsh dynamics structure fish foraging patterns in the San Francisco Estuary. *Estuaries and Coasts*. DOI: 10.1007/s12237-020-00876-0
 
 Baker, R., Taylor, M. D., Able, K. W., Beck, M. W., Cebrian, J., **Colombano, D. D.**, ... & Staver, L. W. (2020). Fisheries rely on threatened salt marshes. *Science* [Link](https://science.sciencemag.org/content/370/6517/670.1)
 
