@@ -16,15 +16,15 @@ My name is **Denise Colombano**.
 
 ### Education and research interests
 
-I am a postdoctoral scholar working under Professors Albert Ruhi and Stephanie Carlson ([See Ruhi Lab website](https://nature.berkeley.edu/ruhilab/lab-members/denise-colombano/)) in the Department of Environmental Science, Policy, and Management ([ESPM](https://ourenvironment.berkeley.edu/)) at UC Berkeley. I earned a Ph.D. in Ecology in Dr. Peter Moyle's lab at UC Davis in 2019. My dissertation is titled, "Tidal marsh habitat use by fishes in the San Francisco Estuary" and is available on ProQuest.
+I am a **Delta Science Postdoctoral Fellow** working under Professors Albert Ruhi and Stephanie Carlson ([See my university lab page](https://nature.berkeley.edu/ruhilab/lab-members/denise-colombano/)) in the Department of Environmental Science, Policy, and Management ([ESPM](https://ourenvironment.berkeley.edu/)) at UC Berkeley. I earned a Ph.D. in Ecology in Dr. Peter Moyle's lab at UC Davis in 2019. My dissertation is titled, "Tidal marsh habitat use by fishes in the San Francisco Estuary" and is available on ProQuest.
 
 I am currently working on:
 
-- Climate change effects on long-term fish community stability, food web structure, and predator-prey dynamics
+- **Climate change effects on long-term fish community stability, food web structure, and predator-prey dynamics**
 - Developing a conceptual model, Mount to Marsh (M2M), on the important ecological role of marsh-upland connectivity for fishes in San Francisco Bay watersheds/tributaries
 
-My interests are nearshore ecology (particularly in estuaries), tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, habitat connectivity, terrestrial-aquatic linkages, and climate change effects on flows. Most of all, I'm interested in synthesizing datasets in new ways to better understand the natural history of species and their behavioral adaptations to dynamic marine and estuarine environments. You can follow my current research on [Research Gate](https://www.researchgate.net/profile/Denise_Colombano).
+My interests are **nearshore ecology** (particularly in estuaries), tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, habitat connectivity, terrestrial-aquatic linkages, and climate change effects on flows. Most of all, I'm interested in synthesizing datasets in new ways to better understand the natural history of species and their behavioral adaptations to dynamic marine and estuarine environments. You can follow along with my research on [Research Gate](https://www.researchgate.net/profile/Denise_Colombano).
 
-I like to code in R, teach R, learn new techniques and statistical analyses, and share my knowledge with students and staff. I believe that the collective scientific enterprise must prioritize equitable, inclusive, and supportive work environments that foster creativity and productivity for everyone.
+I like to **code in R**, **teach R**, **learn new techniques and statistical analyses**, and **share my knowledge** with students and staff. I believe that the collective scientific enterprise must prioritize equitable, inclusive, and supportive work environments that foster creativity and productivity for **everyone**.
 
 Please get in touch!
