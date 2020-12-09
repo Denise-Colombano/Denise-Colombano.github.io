@@ -24,7 +24,7 @@ I study the following topics:
 - Tidal marsh-upland connectivity influence on fish communities in San Francisco Bay watersheds/tributaries
 - Estuarine ecology in urban landscapes; nature-based vs. hardened shorelines
 
-My interests are **nearshore ecology** (particularly in estuaries), tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, habitat connectivity, terrestrial-aquatic linkages, and climate change effects on flows. Most of all, I'm interested in synthesizing datasets in new ways to better understand the natural history of species and their behavioral adaptations to dynamic marine and estuarine environments. You can follow along with my research on [Research Gate](https://www.researchgate.net/profile/Denise_Colombano).
+My interests are **seascape ecology**, tidal marshes, fish, food webs, hydrodynamics, tides, vegetation, habitat connectivity, urban shorelines, terrestrial-aquatic linkages, and climate change effects on flows. Most of all, I'm interested in synthesizing datasets in new ways to better understand the natural history of species and their behavioral adaptations to dynamic marine and estuarine environments. You can follow along with my research on [Research Gate](https://www.researchgate.net/profile/Denise_Colombano).
 
 I like to **code in R**, **teach R**, **learn new techniques and statistical analyses**, and **share my knowledge** with students and staff. I believe that the collective scientific enterprise must prioritize equitable, inclusive, and supportive work environments that foster creativity and productivity for **everyone**.
 
