@@ -15,7 +15,7 @@ Ziegler, S. L., Baker, R., Crosby, S. C., **Colombano, D. D.**, Barbeau, M. A., 
 
 **Colombano, D. D.**, Litvin, S. Y., Ziegler, S. L., Alford, S. B., Baker, R., Barbeau, M. A., Cebrian, J., Connolly, R. M., ... & Waltham, N. J. *Accepted.* Climate change implications for tidal marshes and food web linkages to estuarine and coastal nekton.
 
-**Colombano, D. D.**, Handley, T. B., O'Rear, T. A., Durand, J. R., & Moyle, P. B. *Accepted.* Complex tidal marsh dynamics structure fish foraging patterns in the San Francisco Estuary. *Estuaries and Coasts*. DOI: 10.1007/s12237-020-00876-0
+**Colombano, D. D.**, Handley, T. B., O'Rear, T. A., Durand, J. R., & Moyle, P. B. *Accepted.* Complex tidal marsh dynamics structure fish foraging patterns in the San Francisco Estuary. *Estuaries and Coasts*.
 
 Baker, R., Taylor, M. D., Able, K. W., Beck, M. W., Cebrian, J., **Colombano, D. D.**, ... & Staver, L. W. (2020). Fisheries rely on threatened salt marshes. *Science* [Link](https://science.sciencemag.org/content/370/6517/670.1)
 
