@@ -8,7 +8,7 @@ subtitle: A collection of Denise's work
 
 Kimball, M. E., Connolly, R. M, Alford, S. B., **Colombano, D. D.**, James, W. R., Kenworthy, M. D., Norris, G. S., ... & Taylor, M. D. *In review*. Novel applications of technology for advancing tidal marsh ecology.
 
-Ziegler, S. L., Baker, R., Crosby, **Colombano, D. D.**, S. C., Barbeau, M. A., Cebrian, J., ... & Rozas, L. P. *In review*. Geographic variation in salt marsh structure and function for nekton: a guide to finding commonality across multiple scales.
+Ziegler, S. L., Baker, R., Crosby, S. C., **Colombano, D. D.**, Barbeau, M. A., Cebrian, J., ... & Rozas, L. P. *In review*. Geographic variation in salt marsh structure and function for nekton: a guide to finding commonality across multiple scales.
 
 
 **Peer-reviewed publications:**
