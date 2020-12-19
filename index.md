@@ -16,7 +16,7 @@ My name is **Denise Colombano**.
 
 ### Education and research interests
 
-I am a **Delta Science Postdoctoral Fellow** working under Professors ([Albert Ruhi](https://nature.berkeley.edu/ruhilab/)) and ([Stephanie Carlson](https://nature.berkeley.edu/carlsonlab/)) in the Department of ([Environmental Science, Policy, and Management](https://ourenvironment.berkeley.edu/)) at UC Berkeley. I earned a Ph.D. in Ecology in Dr. Peter Moyle's lab at UC Davis in 2019. My dissertation is titled, "Tidal marsh habitat use by fishes in the San Francisco Estuary" and is available on ProQuest.
+I am a **Delta Science Postdoctoral Fellow** working under Professors [Albert Ruhi](https://nature.berkeley.edu/ruhilab/) and [Stephanie Carlson](https://nature.berkeley.edu/carlsonlab/) in the Department of [Environmental Science, Policy, and Management](https://ourenvironment.berkeley.edu/) at UC Berkeley. I earned a Ph.D. in Ecology in Dr. Peter Moyle's lab at UC Davis in 2019. My dissertation is titled, "Tidal marsh habitat use by fishes in the San Francisco Estuary" and is available on ProQuest.
 
 I study the following topics:
 
