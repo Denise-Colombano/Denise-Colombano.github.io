@@ -26,7 +26,7 @@ Specifically, I am interested in studying the following topics:
 
 - Climate change effects on long-term fish community stability, food web structure, and predator-prey dynamics
 - Tidal marsh-upland connectivity influence on fish communities in San Francisco Bay watersheds/tributaries
-- Estuarine ecology in urban landscapes; optimizing nature-based solutions to sea level rise for fish communities and food webs
+- Estuarine ecology in urban and agricultural landscapes; optimizing nature-based solutions to sea level rise for fish communities and food webs
 
 I like to **code in R**, **teach R**, **learn new techniques and statistical analyses**, and **share my knowledge** with students and staff. I believe that the collective scientific enterprise must prioritize equitable, inclusive, and supportive work environments that foster creativity and productivity for **everyone**.
 
