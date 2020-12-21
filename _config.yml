@@ -167,7 +167,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
+      path: "_posts"
       type: "posts"
     values:
       comments: false  # add comments to all blog posts
@@ -176,7 +176,7 @@ defaults:
     scope:
       path: "" # all files
     values:
-      layout: "default"
+      layout: "page"
       show-avatar: true
 
 # Use tags index page and make tags on each post clickable
