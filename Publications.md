@@ -8,14 +8,13 @@ subtitle: A collection of Denise's work
 
 Kimball, M. E., Connolly, R. M, Alford, S. B., **Colombano, D. D.**, James, W. R., Kenworthy, M. D., Norris, G. S., ... & Taylor, M. D. *In review*. Novel applications of technology for advancing tidal marsh ecology.
 
-Ziegler, S. L., Baker, R., Crosby, S. C., **Colombano, D. D.**, Barbeau, M. A., Cebrian, J., ... & Rozas, L. P. *In review*. Geographic variation in salt marsh structure and function for nekton: a guide to finding commonality across multiple scales.
-
-
 **Peer-reviewed publications:**
 
 **Colombano, D. D.**, Litvin, S. Y., Ziegler, S. L., Alford, S. B., Baker, R., Barbeau, M. A., Cebrian, J., Connolly, R. M., ... & Waltham, N. J. *Accepted.* Climate change implications for tidal marshes and food web linkages to estuarine and coastal nekton. *Estuaries and Coasts*.
 
 **Colombano, D. D.**, Handley, T. B., O'Rear, T. A., Durand, J. R., & Moyle, P. B. *Accepted.* Complex tidal marsh dynamics structure fish foraging patterns in the San Francisco Estuary. *Estuaries and Coasts*.
+
+Ziegler, S. L., Baker, R., Crosby, S. C., **Colombano, D. D.**, Barbeau, M. A., Cebrian, J., ... & Rozas, L. P. *Accepted*. Geographic variation in salt marsh structure and function for nekton: a guide to finding commonality across multiple scales. *Estuaries and Coasts*.
 
 Baker, R., Taylor, M. D., Able, K. W., Beck, M. W., Cebrian, J., **Colombano, D. D.**, ... & Staver, L. W. (2020). Fisheries rely on threatened salt marshes. *Science* [Link](https://science.sciencemag.org/content/370/6517/670.1)
 
