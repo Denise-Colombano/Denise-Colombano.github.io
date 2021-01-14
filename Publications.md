@@ -14,7 +14,7 @@ Kimball, M. E., Connolly, R. M, Alford, S. B., **Colombano, D. D.**, James, W. R
 
 **Colombano, D. D.**, Handley, T. B., O'Rear, T. A., Durand, J. R., & Moyle, P. B. *Accepted.* Complex tidal marsh dynamics structure fish foraging patterns in the San Francisco Estuary. *Estuaries and Coasts*.
 
-Ziegler, S. L., Baker, R., Crosby, S. C., **Colombano, D. D.**, Barbeau, M. A., Cebrian, J., ... & Rozas, L. P. *Accepted*. Geographic variation in salt marsh structure and function for nekton: a guide to finding commonality across multiple scales. *Estuaries and Coasts*.
+Ziegler, S. L., Baker, R., Crosby, S. C., **Colombano, D. D.**, Barbeau, M. A., Cebrian, J., ... & Rozas, L. P. 2021. Geographic variation in salt marsh structure and function for nekton: a guide to finding commonality across multiple scales. *Estuaries and Coasts* [Link](https://rdcu.be/cdwSr)
 
 Baker, R., Taylor, M. D., Able, K. W., Beck, M. W., Cebrian, J., **Colombano, D. D.**, ... & Staver, L. W. (2020). Fisheries rely on threatened salt marshes. *Science* [Link](https://science.sciencemag.org/content/370/6517/670.1)
 
