@@ -10,7 +10,7 @@ Kimball, M. E., Connolly, R. M, Alford, S. B., **Colombano, D. D.**, James, W. R
 
 **Peer-reviewed publications:**
 
-**Colombano, D. D.**, Litvin, S. Y., Ziegler, S. L., Alford, S. B., Baker, R., Barbeau, M. A., Cebrian, J., Connolly, R. M., ... & Waltham, N. J. *Accepted.* Climate change implications for tidal marshes and food web linkages to estuarine and coastal nekton. *Estuaries and Coasts*.
+**Colombano, D. D.**, Litvin, S. Y., Ziegler, S. L., Alford, S. B., Baker, R., Barbeau, M. A., Cebrian, J., Connolly, R. M., ... & Waltham, N. J. *Accepted.* Climate change implications for tidal marshes and food web linkages to estuarine and coastal nekton. *Estuaries and Coasts*. [Link](https://link.springer.com/article/10.1007/s12237-020-00891-1)
 
 **Colombano, D. D.**, Handley, T. B., O'Rear, T. A., Durand, J. R., & Moyle, P. B. *Accepted.* Complex tidal marsh dynamics structure fish foraging patterns in the San Francisco Estuary. *Estuaries and Coasts*.
 
