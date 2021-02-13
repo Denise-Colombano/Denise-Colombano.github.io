@@ -6,8 +6,8 @@ subtitle: Current research projects and materials
 
 **Delta Science Fellowship postdoctoral research project**
 
-**Funding agencies**: The Delta Science Stewardship Council, CA Sea Grant
-- [**Project link**:](https://caseagrant.ucsd.edu/project/estuarine-fish-community-responses-to-climate-flow-and-habitat) 
+**Funding agencies**: The Delta Science Stewardship Council
+- [**CA Sea Grant project link**](https://caseagrant.ucsd.edu/project/estuarine-fish-community-responses-to-climate-flow-and-habitat) 
 
 **Fellow and principal investigators:** 
 - Denise Colombano (UC Berkeley)
