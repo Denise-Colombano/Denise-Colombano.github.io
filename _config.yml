@@ -24,6 +24,7 @@ navbar-links:
   #Blog: "Blog"
   Projects: "Projects"
   Publications: "Publications"
+  Features: "Features"
   Work Homepage: "https://nature.berkeley.edu/ruhilab/lab-members/denise-colombano/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
