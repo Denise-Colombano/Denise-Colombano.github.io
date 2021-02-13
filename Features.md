@@ -14,3 +14,5 @@ subtitle: Featured research and blogs
 - CA Sea Grant: [Seascape ecology brings a unified perspective to the San Francisco Estuary](https://caseagrant.ucsd.edu/blogs/seascape-ecology-brings-a-unified-perspective-to-the-san-francisco-estuary) *Apr 16, 2019*
 
 - CA Sea Grant: [Meet Denise Colombano](https://caseagrant.ucsd.edu/blogs/meet-denise-colombano-delta-science-fellow) *May 12, 2016*
+
+- CA Water Blog: [North Delta Arc lifts hope for recovery of native fish](https://californiawaterblog.com/2013/10/26/north-delta-arc-lifts-hope-for-recovery-of-native-fish/) *Oct 26, 2013*
