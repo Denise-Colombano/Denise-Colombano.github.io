@@ -9,6 +9,8 @@ subtitle: Featured research and blogs
 
 - Maven's Notebook: [Denise Colombano, Delta Science Postdoctoral Fellow](https://mavensnotebook.com/cm-expert/denise-colombano/) *September 22, 2020*
 
+- Maven's Notebook: [Delta Lead Scientist's Report](https://mavensnotebook.com/2020/07/30/delta-lead-scientist-report-new-research-papers-focus-on-habitat-flow-predation/) *July 30, 2020*
+
 - California Sea Grant: [Seascape ecology brings a unified perspective to the San Francisco Estuary](https://caseagrant.ucsd.edu/blogs/seascape-ecology-brings-a-unified-perspective-to-the-san-francisco-estuary) *April 16, 2019*
 
 - California Sea Grant: [Meet Denise Colombano](https://caseagrant.ucsd.edu/blogs/meet-denise-colombano-delta-science-fellow) *May 12, 2016*
