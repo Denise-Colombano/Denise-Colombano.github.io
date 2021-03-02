@@ -35,3 +35,8 @@ Conrad, J. L., Bibian, A. J., Weinersmith, K. L., **De Carion, D.**, Young, M. J
 **Reports:**
 
 Williamson, B. O., O'Rear, T., **De Carion, D.**, Durand, J. R., & Moyle, P. B. (2016). Fishes of the Nurse-Denverton Complex: managed wetlands and tidal waterways in Suisun Marsh. Interagency Ecological Program Newsletter. [Link](http://www.water.ca.gov/iep/docs/IEP%20Vol28_3.pdf)
+
+
+
+**Dissertation:**
+Colombano, D. D. Tidal marsh habitat use by fishes in the San Francisco Estuary. PhD Dissertation, University of California, Davis. [Link](https://search.proquest.com/openview/a38e19b5e0cfb8c389c7da4069b4884e/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)
