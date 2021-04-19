@@ -4,11 +4,9 @@ title: Publications
 subtitle: A collection of Denise's work
 ---
 
-**In review:**
-
-Kimball, M. E., Connolly, R. M, Alford, S. B., **Colombano, D. D.**, James, W. R., Kenworthy, M. D., Norris, G. S., ... & Taylor, M. D. *In review*. Novel applications of technology for advancing tidal marsh ecology.
-
 **Peer-reviewed publications:**
+
+Kimball, M. E., Connolly, R. M, Alford, S. B., **Colombano, D. D.**, James, W. R., Kenworthy, M. D., Norris, G. S., ... & Taylor, M. D. (2021). Novel applications of technology for advancing tidal marsh ecology. *Estuaries and Coasts*. [Link](https://link.springer.com/article/10.1007%2Fs12237-021-00939-w)
 
 **Colombano, D. D.**, Handley, T. B., O'Rear, T. A., Durand, J. R., & Moyle, P. B. (2021). Complex tidal marsh dynamics structure fish foraging patterns in the San Francisco Estuary. *Estuaries and Coasts*. [Link](https://link.springer.com/article/10.1007/s12237-021-00896-4)
 
