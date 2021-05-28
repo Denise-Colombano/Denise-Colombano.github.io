@@ -17,11 +17,11 @@ Kimball, M. E., Connolly, R. M, Alford, S. B., **Colombano, D. D.**, James, W. R
 
 **Colombano, D. D.**, Litvin, S. Y., Ziegler, S. L., Alford, S. B., Baker, R., Barbeau, M. A., Cebrian, J., Connolly, R. M., ... & Waltham, N. J. (2021). Climate change implications for tidal marshes and food web linkages to estuarine and coastal nekton. *Estuaries and Coasts*. [Link](https://link.springer.com/article/10.1007/s12237-020-00891-1)
 
-Ziegler, S. L., Baker, R., Crosby, S. C., **Colombano, D. D.**, Barbeau, M. A., Cebrian, J., ... & Rozas, L. P. (2021). Geographic variation in salt marsh structure and function for nekton: a guide to finding commonality across multiple scales. *Estuaries and Coasts* [Link](https://rdcu.be/cdwSr)
+Ziegler, S. L., Baker, R., Crosby, S. C., **Colombano, D. D.**, Barbeau, M. A., Cebrian, J., ... & Rozas, L. P. (2021). Geographic variation in salt marsh structure and function for nekton: a guide to finding commonality across multiple scales. *Estuaries and Coasts*. [Link](https://rdcu.be/cdwSr)
 
-Baker, R., Taylor, M. D., Able, K. W., Beck, M. W., Cebrian, J., **Colombano, D. D.**, ... & Staver, L. W. (2020). Fisheries rely on threatened salt marshes. *Science* [Link](https://science.sciencemag.org/content/370/6517/670.1)
+Baker, R., Taylor, M. D., Able, K. W., Beck, M. W., Cebrian, J., **Colombano, D. D.**, ... & Staver, L. W. (2020). Fisheries rely on threatened salt marshes. *Science*. [Link](https://science.sciencemag.org/content/370/6517/670.1)
 
-Gilby, B. L., Weinstein, M. P., Baker, R., Cebrian, J., Alford, S. B., Chelsky, A., **Colombano, D. D.**, ... & Ziegler, S. L. (2020). Human actions alter tidal marsh seascapes and the provision of ecosystem services. *Estuaries and Coasts* [Link](https://rdcu.be/b63Aq) 
+Gilby, B. L., Weinstein, M. P., Baker, R., Cebrian, J., Alford, S. B., Chelsky, A., **Colombano, D. D.**, ... & Ziegler, S. L. (2020). Human actions alter tidal marsh seascapes and the provision of ecosystem services. *Estuaries and Coasts*. [Link](https://rdcu.be/b63Aq) 
 
 **Colombano, D. D.**, Donovan, J. M., Ayers, D. E., O'Rear, T. A., & Moyle, P. B. (2020). Tidal effects on marsh habitat use by three fishes in the San Francisco Estuary. *Environmental Biology of Fishes*, 103: 605-623. [Link](https://doi.org/10.1007/s10641-020-00973-w)
 
