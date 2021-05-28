@@ -6,7 +6,7 @@ subtitle: A collection of Denise's work
 
 **Recorded presentations:**
 
-**Colombano, D. D.**, Carlson, S. M., Hobbs, J. A., & Ruhi, A. (2021). A state-space approach to scaling species-level responses to hydroclimatic variability." Society for Freshwater Science. [YouTube Link](https://www.youtube.com/watch?v=QkOp7q6QYkQ)
+**Colombano, D. D.**, Carlson, S. M., Hobbs, J. A., & Ruhi, A. "A state-space approach to scaling species-level responses to hydroclimatic variability." Society for Freshwater Science Meeting, March 25th, 2021. [YouTube Link](https://www.youtube.com/watch?v=QkOp7q6QYkQ)
 
 
 **Peer-reviewed publications:**
