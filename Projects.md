@@ -26,7 +26,7 @@ Our project seeks to synthesize long-term datasets to answer the following quest
 
 **Time frame**:
 
-Funded from June 2020 to May 2022. Expect an update with our first batch of results in Spring 2021!
+Funded from June 2020 to May 2022.
 
 
 
