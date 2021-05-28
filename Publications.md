@@ -4,6 +4,10 @@ title: Publications
 subtitle: A collection of Denise's work
 ---
 
+**Presentations:**
+**Colombano, D. D.**, Carlson, S. M., Hobbs, J. A., & Ruhi, A. (2021). A state-space approach to scaling species-level responses to hydroclimatic variability." Society for Freshwater Science. [YouTube Link](https://www.youtube.com/watch?v=QkOp7q6QYkQ)
+
+
 **Peer-reviewed publications:**
 
 Kimball, M. E., Connolly, R. M, Alford, S. B., **Colombano, D. D.**, James, W. R., Kenworthy, M. D., Norris, G. S., ... & Taylor, M. D. (2021). Novel applications of technology for advancing tidal marsh ecology. *Estuaries and Coasts*. [Link](https://link.springer.com/article/10.1007%2Fs12237-021-00939-w)
