@@ -30,6 +30,8 @@ Funded from June 2020 to May 2022.
 
 
 
+
+---
 (2) **Proposition 1 Watershed Restoration Grant & Delta Water Quality and Ecosystem Restoration Grant**
 
 
