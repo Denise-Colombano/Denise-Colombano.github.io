@@ -4,7 +4,7 @@ title: Projects
 subtitle: Current research projects and materials
 ---
 
-**Delta Science Fellowship postdoctoral research project**
+(1) **Delta Science Fellowship postdoctoral research project**
 
 **Funding agencies**: The Delta Science Stewardship Council and California Sea Grant
 
@@ -30,4 +30,24 @@ Funded from June 2020 to May 2022.
 
 
 
+(2) **Proposition 1 Watershed Restoration Grant & Delta Water Quality and Ecosystem Restoration Grant**
 
+
+**Funding agency**: California Department of Fish and Wildlife
+
+**Principal investigators:** 
+- Albert Ruhi (UC Berkeley)
+- Stephanie Carlson (UC Berkeley)
+
+**Advisors:**
+- James Hobbs (California Department of Fish and Wildlife)
+- Noah Knowles (US Geological Survey)
+- Lisa Lucas (US Geological Survey)
+
+**Project description**: 
+
+Can climate change disrupt estuarine food webs by desynchronizing their components? Evidence suggests that climate-driven mismatches between fish and their prey are likely— but how, when, and where mismatches will occur in the SF Bay-Delta remains unclear. Here we advance our understanding of climate change impacts on pelagic food web dynamics (i.e., phytoplankton-zooplankton-fish) by examining the effects of hydroclimatic fluctuations on species phenology (e.g., spawning, migration, productivity), both within and between trophic levels. Using Multivariate Autoregressive State Space (MARSS) models, we compare how trophic levels respond to shifts in hydroclimate (e.g., early spring onset), and identify what may cause trophic mismatches (e.g., prey without predators or ‘trophic dead-ends’; predators --longfin smelt, striped bass, Pacific herring-- without prey or ‘food limitation’). We also evaluate future climate change scenarios and identify areas that are at particularly high risk of a phenological mismatch.
+
+**Time frame**:
+
+TBA.
